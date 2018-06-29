@@ -10,7 +10,7 @@ namespace CihadTestInit
     {
         static void Main(string[] args)
         {
-            //cihad
+          
             //murat
         }
     }
